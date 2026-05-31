@@ -49,7 +49,6 @@ const projectSubmissionSchema = new Schema<ProjectSubmission>({
 });
 
 const ProjectSubmissionModel =
-	mongoose.models.ProjectSubmission ||
-	model('ProjectSubmission', projectSubmissionSchema);
+	mongoose.models.ProjectSubmission || model('ProjectSubmission', projectSubmissionSchema);
 
 export default ProjectSubmissionModel;

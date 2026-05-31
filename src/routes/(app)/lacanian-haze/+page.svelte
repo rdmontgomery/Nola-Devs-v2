@@ -40,8 +40,8 @@
 		>
 			<p class="font-semibold">Thanks — we got it! 🎉</p>
 			<p>
-				Your project <span class="font-medium">{f.projectName}</span> has been submitted. We'll be
-				in touch about the next meetup.
+				Your project <span class="font-medium">{f.projectName}</span> has been submitted. We'll be in
+				touch about the next meetup.
 			</p>
 		</div>
 	{:else}
