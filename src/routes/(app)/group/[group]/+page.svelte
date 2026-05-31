@@ -32,6 +32,14 @@
 				<p class="text-base leading-6 dark:text-violet-200">
 					{group?.description}
 				</p>
+				{#if group?.slug === 'lacanian-haze'}
+					<a
+						href="/lacanian-haze"
+						class="inline-flex gap-2 px-4 py-2 mt-2 text-white bg-violet-500 rounded-lg hover:bg-violet-600 transition-colors text-sm font-medium items-center"
+					>
+						Submit your AI project →
+					</a>
+				{/if}
 			</section>
 			<OrganizerList organizers="{users}" />
 		</article>

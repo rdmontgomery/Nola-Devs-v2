@@ -103,5 +103,16 @@
 		"description": "New Orleans Black Tech Network connecting entry level talent to jobs, resources and events to help you get hired.",
 		"links": { "website": "https://nolavateblack.com/" },
 		"icon": "✊🏾"
+	},
+	{
+		"group": "Lacanian Haze",
+		"slug": "lacanian-haze",
+		"description": "Lacanian Haze is a New Orleans meetup for people building with and around AI. We gather monthly to demo works-in-progress, swap notes on the tools and models we're using, and talk honestly about what's actually working (and what isn't). Whether you're shipping an AI product, hacking on agents and LLMs on the side, fine-tuning models, or just AI-curious, come share what you're building. Every meetup features short project show-and-tells from the community followed by open discussion and networking. Submit a project below to get on the line-up.",
+		"links": {
+			"website": "https://noladevs.org/lacanian-haze",
+			"meetup": "https://www.meetup.com/lacanian-haze/",
+			"email": "lacanianhaze@noladevs.org"
+		},
+		"icon": "🌀"
 	}
 ]
